@@ -7,11 +7,10 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.5.5</version>
 	</parent>
-	<groupId>com.prueba-tecnica</groupId>
-	<artifactId>abitmedia</artifactId>
-	<version>0.0.3</version>
-	<name>abitmedia</name>
-	<description>Prueba Tecnica Java</description>
+	<groupId>com.portafolio</groupId>
+	<artifactId>gtareas</artifactId>
+	<version>1.0.0</version>
+	<name>portafolio-gestion-tareas</name>
 	<properties>
 		<java.version>21</java.version>
 	</properties>

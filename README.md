@@ -1,6 +1,6 @@
-# 📌 Abitmedia - Gestión de Tareas
+# 📌 Gestión de Tareas
 
-Este es el desarrollo de la **prueba técnica** de una aplicación backend construida con **Spring Boot (Java 21)**.  
+Este es el desarrollo de una aplicación backend construida con **Spring Boot (Java 21)**.  
 Permite a los usuarios crear, consultar, actualizar y eliminar tareas, gestionando usuarios con autenticación basada en **JWT**.
 
 ---

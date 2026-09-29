@@ -1,1 +1,1 @@
-CREATE DATABASE bd_abitmedia;
+CREATE DATABASE bd_gestion_tareas;
