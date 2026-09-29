@@ -44,12 +44,12 @@ Dentro de la carpeta `execute` se encuentra una colección de Postman:
 
 | Método | Endpoint              | Descripción              | Autentificación |
 |--------|-----------------------|--------------------------|-----------------|
-| POST   | `/auth/usuario/login` | Autenticación de usuario | Sí              |
-| POST   | `/auth/usuario/save`  | Creación del usuario     | Sí              |
-| POST   | `/tareas/save`        | Crear una tarea          | No              |
-| PUT    | `/tareas/update`      | Actualizar una tarea     | No              |
-| GET    | `/tareas/getAll`      | Listar tareas            | No              |
-| DELETE | `/tareas/delete`      | Eliminar tarea           | No              |
+| POST   | `/auth/usuario/login` | Autenticación de usuario | No              |
+| POST   | `/auth/usuario/save`  | Creación del usuario     | No              |
+| POST   | `/tareas/save`        | Crear una tarea          | Sí              |
+| PUT    | `/tareas/update`      | Actualizar una tarea     | Sí              |
+| GET    | `/tareas/getAll`      | Listar tareas            | Sí              |
+| DELETE | `/tareas/delete`      | Eliminar tarea           | Sí              |
 
 
 ## 🔑 Cómo usar los endpoints que requieren autorización
